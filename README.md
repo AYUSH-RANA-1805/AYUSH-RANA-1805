@@ -1,5 +1,4 @@
-<!-- ===================== HEADER ===================== -->
-
+```markdown
 <div align="center">
 
 # Hi 👋, I'm Ayush Rana
@@ -12,8 +11,6 @@
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
-
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science student passionate about **AI, Machine Learning, and Software Engineering**
@@ -25,17 +22,15 @@
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
-
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
 </p>
 
-### AI / ML & Data
+### 🤖 AI / ML & Data
 
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
@@ -47,13 +42,13 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-### Backend & Databases
+### 🌐 Backend & Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,postgres" />
 </p>
 
-### Tools & DevOps
+### ⚙️ Tools & DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
@@ -61,40 +56,34 @@
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
+# 🚀 Featured Projects
 
-## 🚀 Featured Projects
+## 🤖 HelpDesk AI
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 HelpDesk AI
-
-An intelligent **support-ticket prediction and conversational assistant** built as a phase-by-phase AI engineering project.
+An intelligent **support-ticket prediction and conversational assistant** built as an end-to-end AI engineering project.
 
 **What I'm exploring:**
 
 - Machine Learning
-- NLP
+- Natural Language Processing
 - Ticket Classification
 - Conversational AI
 - API Development
 - Model Deployment
 
-**Tech:** `Python` `ML` `NLP` `FastAPI`
+**Tech:** `Python` `Machine Learning` `NLP` `FastAPI`
 
 <a href="https://github.com/AYUSH-RANA-1805/helpdesk-ai">
   <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
+<br>
 
-<td width="50%" valign="top">
+---
 
-### 🛡️ Network Intrusion Detection
+## 🛡️ Network Intrusion Detection System
 
-Machine-learning based system for identifying potentially malicious network activity.
+A machine-learning based system for identifying potentially malicious network activity and classifying network traffic.
 
 **What I'm exploring:**
 
@@ -102,7 +91,7 @@ Machine-learning based system for identifying potentially malicious network acti
 - Data Preprocessing
 - Classification
 - Feature Engineering
-- ML Evaluation
+- ML Model Evaluation
 
 **Tech:** `Python` `Machine Learning` `Cybersecurity`
 
@@ -110,13 +99,11 @@ Machine-learning based system for identifying potentially malicious network acti
   <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
-</tr>
+<br>
 
-<tr>
-<td width="50%" valign="top">
+---
 
-### ☁️ Cloud File Organiser
+## ☁️ Cloud File Organiser
 
 A Python utility designed to automate file organization and simplify file management.
 
@@ -133,18 +120,9 @@ A Python utility designed to automate file organization and simplify file manage
   <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
-
-<td width="50%" valign="top">
-
-</tr>
-</table>
-
 ---
 
-<!-- ===================== CURRENTLY LEARNING ===================== -->
-
-## 🧠 Currently Learning
+# 🧠 Currently Learning
 
 ```text
 Machine Learning      ███████████░░░░
@@ -153,3 +131,132 @@ NLP                   ███████░░░░░░░░
 Backend / APIs        █████████░░░░░░
 Docker                ██████░░░░░░░░░
 Cloud & MLOps         ████░░░░░░░░░░░
+```
+
+### 🎯 My Current Goal
+
+Understand and build projects covering the complete **ML Engineering Lifecycle**:
+
+```text
+Problem
+   ↓
+Data Collection
+   ↓
+Data Cleaning & EDA
+   ↓
+Feature Engineering
+   ↓
+Model Training
+   ↓
+Model Evaluation
+   ↓
+API Development
+   ↓
+Docker
+   ↓
+Cloud Deployment
+   ↓
+Monitoring
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AYUSH-RANA-1805&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSH-RANA-1805&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AYUSH-RANA-1805&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AYUSH-RANA-1805&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AYUSH-RANA-1805/AYUSH-RANA-1805/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AYUSH-RANA-1805/AYUSH-RANA-1805/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/AYUSH-RANA-1805/AYUSH-RANA-1805/output/github-contribution-grid-snake.svg"
+  />
+
+</picture>
+
+</div>
+
+---
+
+# 💡 Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ayush--rana--/)">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:rana.ayush1805@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Code • Learn • Build • Repeat
+
+⭐ *Always curious. Always learning. Always building.*
+
+</div>
+```
+
+Two things still need to be done for the snake to actually appear:
+
+**First:** your `.github/workflows/snake.yml` workflow must run successfully and create the `output` branch. The README code above only **displays** the generated snake; it doesn't generate it.
+
+**Second:** replace `YOUR_LINKEDIN_URL` and `YOUR_EMAIL` before committing.
+
+After you paste and commit this README, if the snake shows as a **broken image or doesn't appear**, send me a screenshot of your **Actions → Generate Contribution Snake** page. I'll walk you through fixing it.

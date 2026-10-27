@@ -1,16 +1,59 @@
-## Hi there 👋
+👋 Hi, I'm Ayush Rana
+CS Student | AI/ML | Backend | Software Engineering
 
-<!--
-**AYUSH-RANA-1805/AYUSH-RANA-1805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Short introduction
 
-Here are some ideas to get you started:
+────────────────────────────
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 About Me
+
+🎓 Computer Science student
+🤖 Currently learning AI/ML and building intelligent systems
+🔐 Interested in ML, cybersecurity and backend development
+🌱 Currently learning deployment, MLOps and modern AI engineering
+
+────────────────────────────
+
+🛠️ Tech Stack
+
+Python | C++ | JavaScript
+Scikit-learn | Pandas | NumPy
+FastAPI | Flask
+Git | GitHub | Docker
+SQL
+
+────────────────────────────
+
+🚀 Featured Projects
+
+🤖 HelpDesk AI
+ML-based ticket classification + conversational assistant
+
+🛡️ Network Intrusion Detection System
+Machine-learning based network attack detection
+
+☁️ Cloud File Organiser
+Automated file organisation system
+
+🌱 Naman Kalaramna
+Environmental sustainability / carbon accounting project
+
+────────────────────────────
+
+📊 GitHub Stats
+
+[GitHub stats cards]
+
+🔥 GitHub Streak
+
+[streak visualization]
+
+🐍 Contribution Snake
+
+[animated snake eating contribution graph]
+
+────────────────────────────
+
+📫 Connect With Me
+
+LinkedIn | Email | Portfolio

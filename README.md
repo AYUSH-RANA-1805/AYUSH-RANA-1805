@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # Hi 👋, I'm Ayush Rana
@@ -252,11 +252,3 @@ Monitoring
 
 </div>
 ```
-
-Two things still need to be done for the snake to actually appear:
-
-**First:** your `.github/workflows/snake.yml` workflow must run successfully and create the `output` branch. The README code above only **displays** the generated snake; it doesn't generate it.
-
-**Second:** replace `YOUR_LINKEDIN_URL` and `YOUR_EMAIL` before committing.
-
-After you paste and commit this README, if the snake shows as a **broken image or doesn't appear**, send me a screenshot of your **Actions → Generate Contribution Snake** page. I'll walk you through fixing it.
